@@ -1,0 +1,5 @@
+Dataset: Irf, average acc:71.27, weighted F1 70.42, micro F1 71.27, macro F1 66.9, OOD count: 0
+Dataset: MultiWD, average acc:72.68, weighted F1 72.88, micro F1 72.68, macro F1 70.93, OOD count: 0
+Dataset: SAD, average acc:53.65, weighted F1 48.9, micro F1 53.65, macro F1 46.01, OOD count: 151
+Dataset: dreaddit, average acc:72.95, weighted F1 71.72, micro F1 72.95, macro F1 71.6, OOD count: 0
+Dataset: DR, average acc:82.96, weighted F1 83.74, micro F1 82.96, macro F1 79.11, OOD count: 0
