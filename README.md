@@ -8,5 +8,5 @@ The proposed methodology aims at developing an interpretable and holistic approa
 https://github.com/SteveKGYang/MentalLLaMA/tree/main/train_data/instruction_data  specifically curated for detecting 8 mental health analysis tasks. We aim at creating an approach that enables the detection of mental health concerns at a scale and speed that traditional methods cannot match, while also reaching marginalized communities, including those in remote or rural areas. We intend to enhance the model by augmenting the mental health condition detection system with an online counselor agent (fine tuned with Mistral) for offering personalized support tailored to the unique needs of each individual in a cost-effective manner, increasing the likelihood of effective outcomes.
 
 A working notebook has been provided in the git repo along with the results. You can access the notebook with name <b><a href="./Mistral7b-Mental-diagnosis-councelling-agent.ipynb">Mistral7b-Mental-diagnosis-councelling-agent.ipynb</a></b>
-You can also find our gradio app script: <a href="./gradio_app.py"> gradio app code </a>
+You can also find our gradio app script: <b><a href="./gradio_app.py"> gradio app code </a><b>
 
